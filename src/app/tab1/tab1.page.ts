@@ -7,6 +7,26 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
-  constructor() {}
+  constructor() { }
+
+  slideOpts = {
+    initialSlide: 1,
+    speed: 400,
+    autoplay: true
+  };
+  imgSlides = [
+    {
+      url: 'http://www.hand2buy.com/product/upload/photos/43169/201609080932110.jpg'
+    },
+    {
+      url: 'http://www.hand2buy.com/product/upload/photos/43169/201609080932110.jpg'
+    },
+    {
+      url: 'http://www.hand2buy.com/product/upload/photos/43169/201609080932110.jpg'
+    },
+    {
+      url: 'http://www.hand2buy.com/product/upload/photos/43169/201609080932110.jpg'
+    }
+  ];
 
 }

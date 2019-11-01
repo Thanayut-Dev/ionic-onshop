@@ -2,3 +2,79 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+.headerbar {
+  padding-top: 3%;
+}
+.titleheader {
+  height: 50px;
+}
+.cardtitleheader {
+  height: 200px;
+}
+.cardslides-1 {
+  height: 50%;
+}
+.cardslides-2 {
+  height: 150%;
+}
+.titlefont {
+  font-size: x-large;
+  padding-top: 5%;
+  color: black;
+  text-align: start;
+  padding-inline-start: 10px;
+  padding-inline-end: 0px;
+}
+
+ion-slide {
+  display: block;
+}
+.slide-img-padding {
+  padding: 20px;
+  height: 200px;
+  width: 100%;
+}
+.titleimgheader{
+  height: 220px;
+  width: 100%;
+}
+
+.card-content-ios {
+  padding-left: unset;
+  padding-right: unset;
+}
+
+.iconcenter {
+  text-align: center;
+}
+.iconcenter1 {
+  text-align: center;
+}
+
+.titleclass {
+  padding-inline-start: 0px;
+  padding-inline-end: 0px;
+}
+
+.cardsize {
+  width: 200px;
+
+  margin-left: unset;
+  margin-right: unset;
+
+  margin-inline-start: 23%;
+  margin-inline-end: 25%;
+}
+
+.imgsize {
+  height: 120px;
+}
+
+// .cardcenter {
+//   margin-left: unset;
+//   margin-right: unset;
+
+//   margin-inline-start: 25%;
+//   margin-inline-end: 25%;
+// }
